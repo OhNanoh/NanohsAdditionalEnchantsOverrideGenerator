@@ -1,0 +1,438 @@
+{
+  "pack_format": 101,
+  "mod_id": "nanohsadditionalenchants",
+  "enchants": {
+    "big_stepper": {
+      "anvil_cost": 1,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.big_stepper"
+      },
+      "max_cost": {
+        "base": 20,
+        "per_level_above_first": 8
+      },
+      "max_level": 2,
+      "min_cost": {
+        "base": 1,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "feet"
+      ],
+      "supported_items": "#minecraft:enchantable/foot_armor",
+      "weight": 5
+    },
+    "blazing_core": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.blazing_core"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 3,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "chest"
+      ],
+      "supported_items": "#minecraft:enchantable/armor",
+      "weight": 3
+    },
+    "critical_striker": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.critical_striker"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/weapon",
+      "weight": 3
+    },
+    "farmer": {
+      "anvil_cost": 1,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.farmer"
+      },
+      "max_cost": {
+        "base": 20,
+        "per_level_above_first": 8
+      },
+      "max_level": 4,
+      "min_cost": {
+        "base": 1,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:hoes",
+      "weight": 3
+    },
+    "frozen_arrows": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.frozen_arrows"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 3,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/bow",
+      "weight": 3
+    },
+    "gem_seeker": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.gem_seeker"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:pickaxes",
+      "weight": 2
+    },
+    "golden_rod": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.golden_rod"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/fishing",
+      "weight": 2
+    },
+    "gravedigger": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.gravedigger"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/weapon",
+      "weight": 3
+    },
+    "greater_knowledge": {
+      "anvil_cost": 1,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.greater_knowledge"
+      },
+      "max_cost": {
+        "base": 20,
+        "per_level_above_first": 8
+      },
+      "max_level": 4,
+      "min_cost": {
+        "base": 1,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/weapon",
+      "weight": 3
+    },
+    "hemorrhage_e": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.hemorrhage_e"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/sharp_weapon",
+      "weight": 3
+    },
+    "king_of_the_sea": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.king_of_the_sea"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "minecraft:trident",
+      "weight": 2
+    },
+    "lucky_looter": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.lucky_looter"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/weapon",
+      "weight": 2
+    },
+    "poison_aspect": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.poison_aspect"
+      },
+      "exclusive_set": "minecraft:fire_aspect",
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 2,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/sharp_weapon",
+      "weight": 3
+    },
+    "rebound": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.rebound"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 3,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "head",
+        "chest",
+        "legs",
+        "feet"
+      ],
+      "supported_items": "minecraft:shield",
+      "weight": 3
+    },
+    "serpent_skin": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.serpent_skin"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "head",
+        "chest",
+        "legs",
+        "feet"
+      ],
+      "supported_items": "#minecraft:enchantable/leg_armor",
+      "weight": 2
+    },
+    "smelting": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.smelting"
+      },
+      "exclusive_set": "minecraft:silk_touch",
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/mining",
+      "weight": 2
+    },
+    "stormcaller": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.stormcaller"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 3,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/bow",
+      "weight": 3
+    },
+    "tunneling": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.tunneling"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 3,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/mining",
+      "weight": 2
+    },
+    "undying": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.undying"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "offhand"
+      ],
+      "supported_items": "minecraft:totem_of_undying",
+      "weight": 2
+    },
+    "vampire": {
+      "anvil_cost": 1,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.vampire"
+      },
+      "max_cost": {
+        "base": 20,
+        "per_level_above_first": 8
+      },
+      "max_level": 4,
+      "min_cost": {
+        "base": 1,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/weapon",
+      "weight": 3
+    },
+    "wither_aspect": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.wither_aspect"
+      },
+      "exclusive_set": [
+        "minecraft:fire_aspect",
+        "nanohsadditionalenchants:poison_aspect"
+      ],
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 2,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/sharp_weapon",
+      "weight": 3
+    }
+  }
+}
