@@ -42,6 +42,26 @@
       "supported_items": "#minecraft:enchantable/armor",
       "weight": 3
     },
+    "clear_mind": {
+      "anvil_cost": 1,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.clear_mind"
+      },
+      "max_cost": {
+        "base": 20,
+        "per_level_above_first": 8
+      },
+      "max_level": 2,
+      "min_cost": {
+        "base": 1,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "head"
+      ],
+      "supported_items": "#minecraft:enchantable/head_armor",
+      "weight": 5
+    },
     "critical_striker": {
       "anvil_cost": 4,
       "description": {
@@ -242,6 +262,26 @@
       "supported_items": "#minecraft:enchantable/weapon",
       "weight": 2
     },
+    "magnetic": {
+      "anvil_cost": 4,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.magnetic"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 1,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "mainhand"
+      ],
+      "supported_items": "#minecraft:enchantable/mining",
+      "weight": 2
+    },
     "poison_aspect": {
       "anvil_cost": 4,
       "description": {
@@ -284,6 +324,26 @@
         "feet"
       ],
       "supported_items": "minecraft:shield",
+      "weight": 3
+    },
+    "second_wind": {
+      "anvil_cost": 2,
+      "description": {
+        "translate": "enchantment.nanohsadditionalenchants.second_wind"
+      },
+      "max_cost": {
+        "base": 25,
+        "per_level_above_first": 8
+      },
+      "max_level": 2,
+      "min_cost": {
+        "base": 5,
+        "per_level_above_first": 8
+      },
+      "slots": [
+        "chest"
+      ],
+      "supported_items": "#minecraft:enchantable/chest_armor",
       "weight": 3
     },
     "serpent_skin": {
